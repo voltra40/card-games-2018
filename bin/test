@@ -1,0 +1,15 @@
+Deck class
+Methods Deck(), toArray()
+Test cases testDeck()
+Card class 
+Methods Card()
+Golf class
+Methods checkLegal(), move(), Golf()
+Golf Test cases: testGolfInit(), tpInitSizeTest(), tpAddCardTest(), tpRemoveCardLegalTest(), tpRemoveCardTest(), hpInitSizeTest(), hpAddingCardTest1(),  hpRemoveCardTest()
+hpAddingCardTest2(), hpAddingCardTest3(), spInitSizeTest(), spAddingCardsTest(), spRemoveCardTest1(), spRemoveCardTest2(),  spRemoveCardTest3().
+LittleSpider class
+Methods LittleSpider(), move(), checkLegalHome(), checkLegalTableau()
+LittleSpider Test cases: testSpiderInit(), tpInitSizeTest(), tpAddCardLegalTest(), tpRemoveCardLegalTest(),tpAddCardTest(), tpRemoveCardTest(),
+hpInitSizeTest(), hpAddCardLegalTest(), hpRemoveCardLegalTest(), hpAddingCardTest2(), hpRemoveCardTest().
+FortyThieves class
+FortyThieves(JFrame frame), move(), checkLegalHome(), checkLegalTableau(), display().
